@@ -1,0 +1,9 @@
+Building guidecoin
+
+See doc/readme-qt.rst for instructions on building guidecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of guidecoin.
+
+See doc/build-*.txt for instructions on building guidecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of guidecoin.
