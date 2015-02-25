@@ -44,11 +44,11 @@ static const int64 MAX_MONEY = COIN * 23300000;  // 23.3 Million
 static const int64 CIRCULATION_MONEY = MAX_MONEY;
 static const double TAX_PERCENTAGE = 0.00; //no tax
 // 20% annual interest
-static const int64 MAX_STEALTH_PROOF_OF_STAKE = 0.20 * COIN;
+static const int64 MAX_STEALTH_PROOF_OF_STAKE = 0.05 * COIN;
 // too many problems with PoW+PoS and big hashes
 // static const unsigned int CUTOFF_POW_BLOCK = 20421;
-static const int CUTOFF_POW_BLOCK = 5460;
-static const unsigned int CUTOFF_POW_TIME = 1405125188;
+static const int CUTOFF_POW_BLOCK = 5760;
+static const unsigned int CUTOFF_POW_TIME = 1435125188;
 // Thu Oct  9 00:00:00 2014 MST
 static const unsigned int STEALTH_ADDR_KICK_IN = 1412834400;
 
